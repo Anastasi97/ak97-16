@@ -66,7 +66,7 @@
                                     <limits>
                                         <limit>
                                             <counter>BRANCH</counter>
-                                            <velue>COVEREDRATIO</velue>
+                                            <value>COVEREDRATIO</value>
                                             <minimum>100%</minimum>
                                         </limit>
                                     </limits>
