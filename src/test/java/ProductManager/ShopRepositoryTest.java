@@ -33,7 +33,7 @@ class ShopRepositoryTest {
         repo.add(product3);
 
         Assertions.assertThrows(NotFoundException.class,
-                () -> repo.remove(44)
+                () -> repo.remove(38)
         );
     }
 
